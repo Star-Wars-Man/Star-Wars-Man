@@ -1,0 +1,150 @@
+US Open Pickleball Championship Round 1,2023-04-15,Ben Johns,11,5
+Margaritaville USA Pickleball National Championships Quarterfinal,2023-05-02,Tyson McGuffin,11,8
+APP Tour Atlanta Open Semifinal,2023-05-20,Zane Navratil,11,9
+PPA Tour Orange County Cup Final,2023-06-07,Riley Newman,11,7
+USA Pickleball Newport Beach Grand Slam Round 2,2023-06-25,Matt Wright,11,6
+APP Tour New York City Open Round 1,2023-07-12,Jay Devilliers,11,4
+PPA Tour Takeya Showcase Quarterfinal,2023-07-30,Patrick Smith,11,9
+US Open Pickleball Championship Semifinal,2023-08-17,Collin Johns,11,8
+Margaritaville USA Pickleball National Championships Final,2023-09-04,JW Johnson,11,7
+APP Tour Chicago Open Round 2,2023-09-22,Tyler Loong,11,5
+PPA Tour Texas Open Quarterfinal,2023-10-10,AJ Koller,11,6
+USA Pickleball Las Vegas Grand Slam Semifinal,2023-10-28,Dekel Bar,11,9
+APP Tour Florida Open Final,2023-11-15,Kyle Yates,11,7
+PPA Tour Arizona Grand Slam Round 1,2023-12-03,Jocelyn Devilliers,11,4
+US Open Pickleball Championship Round 2,2023-12-21,Federico Staksrud,11,8
+Margaritaville USA Pickleball National Championships Round 1,2024-01-08,Ben Johns,11,6
+APP Tour Texas Open Quarterfinal,2024-01-26,Tyson McGuffin,11,9
+PPA Tour California Open Semifinal,2024-02-13,Zane Navratil,11,7
+USA Pickleball Miami Grand Slam Final,2024-03-02,Riley Newman,11,8
+APP Tour Arizona Open Round 1,2024-03-20,Matt Wright,11,5
+PPA Tour Daytona Beach Open Round 2,2024-04-07,Jay Devilliers,11,6
+US Open Pickleball Championship Quarterfinal,2024-04-25,Patrick Smith,11,9
+Margaritaville USA Pickleball National Championships Semifinal,2024-05-13,Collin Johns,11,7
+APP Tour Seattle Open Final,2024-05-31,JW Johnson,11,8
+PPA Tour Utah Open Round 1,2024-06-18,Tyler Loong,11,4
+USA Pickleball San Diego Grand Slam Round 2,2024-07-06,AJ Koller,11,7
+APP Tour Boston Open Quarterfinal,2024-07-24,Dekel Bar,11,9
+PPA Tour Minnesota Open Semifinal,2024-08-11,Kyle Yates,11,6
+US Open Pickleball Championship Final,2024-08-29,Jocelyn Devilliers,11,8
+Margaritaville USA Pickleball National Championships Round 1,2024-09-16,Federico Staksrud,11,5
+APP Tour Las Vegas Open Round 2,2024-10-04,Ben Johns,11,7
+PPA Tour Florida Grand Slam Quarterfinal,2024-10-22,Tyson McGuffin,11,9
+USA Pickleball Atlanta Grand Slam Semifinal,2024-11-09,Zane Navratil,11,8
+APP Tour Houston Open Final,2024-11-27,Riley Newman,11,6
+PPA Tour California Cup Round 1,2024-12-15,Matt Wright,11,4
+US Open Pickleball Championship Round 1,2025-01-02,Jay Devilliers,11,7
+Margaritaville USA Pickleball National Championships Round 2,2025-01-20,Patrick Smith,11,9
+APP Tour Phoenix Open Quarterfinal,2025-02-07,Collin Johns,11,8
+PPA Tour Texas Grand Slam Semifinal,2025-02-25,JW Johnson,11,6
+USA Pickleball Orlando Grand Slam Final,2025-03-15,Tyler Loong,11,7
+APP Tour Denver Open Round 1,2025-04-02,AJ Koller,11,5
+PPA Tour New York Open Round 2,2025-04-20,Dekel Bar,11,8
+US Open Pickleball Championship Quarterfinal,2025-05-08,Kyle Yates,11,9
+Margaritaville USA Pickleball National Championships Semifinal,2025-05-26,Jocelyn Devilliers,11,7
+APP Tour Chicago Open Final,2025-06-13,Federico Staksrud,11,8
+PPA Tour Seattle Cup Round 1,2025-07-01,Ben Johns,11,4
+USA Pickleball Los Angeles Grand Slam Round 2,2025-07-19,Tyson McGuffin,11,6
+APP Tour Atlanta Open Quarterfinal,2025-08-06,Zane Navratil,11,9
+PPA Tour Utah Grand Slam Semifinal,2025-08-24,Riley Newman,11,7
+US Open Pickleball Championship Final,2025-09-11,Matt Wright,11,8
+Margaritaville USA Pickleball National Championships Round 1,2025-09-29,Jay Devilliers,11,5
+APP Tour Florida Open Round 2,2025-10-17,Patrick Smith,11,7
+PPA Tour Arizona Open Quarterfinal,2025-11-04,Collin Johns,11,9
+USA Pickleball Dallas Grand Slam Semifinal,2025-11-22,JW Johnson,11,6
+APP Tour Las Vegas Cup Final,2025-12-10,Tyler Loong,11,8
+PPA Tour California Open Round 1,2025-12-28,AJ Koller,11,4
+US Open Pickleball Championship Round 1,2026-01-15,Dekel Bar,11,7
+Margaritaville USA Pickleball National Championships Round 2,2026-02-02,Kyle Yates,11,9
+APP Tour Texas Open Quarterfinal,2026-02-20,Jocelyn Devilliers,11,8
+PPA Tour Florida Grand Slam Semifinal,2026-03-10,Federico Staksrud,11,6
+USA Pickleball New York Grand Slam Final,2026-03-28,Ben Johns,11,7
+APP Tour Seattle Open Round 1,2026-04-15,Tyson McGuffin,11,5
+PPA Tour Minnesota Cup Round 2,2026-05-03,Zane Navratil,11,8
+US Open Pickleball Championship Quarterfinal,2026-05-21,Riley Newman,11,9
+Margaritaville USA Pickleball National Championships Semifinal,2026-06-08,Matt Wright,11,7
+APP Tour Chicago Open Final,2026-06-26,Jay Devilliers,11,8
+PPA Tour Utah Open Round 1,2026-07-14,Patrick Smith,11,4
+USA Pickleball San Francisco Grand Slam Round 2,2026-08-01,Collin Johns,11,6
+APP Tour Boston Open Quarterfinal,2026-08-19,JW Johnson,11,9
+PPA Tour Texas Grand Slam Semifinal,2026-09-06,Tyler Loong,11,7
+US Open Pickleball Championship Final,2026-09-24,AJ Koller,11,8
+Margaritaville USA Pickleball National Championships Round 1,2026-10-12,Dekel Bar,11,5
+APP Tour Arizona Open Round 2,2026-10-30,Kyle Yates,11,7
+PPA Tour California Cup Quarterfinal,2026-11-17,Jocelyn Devilliers,11,9
+USA Pickleball Miami Grand Slam Semifinal,2026-12-05,Federico Staksrud,11,6
+APP Tour Florida Open Final,2026-12-23,Ben Johns,11,8
+PPA Tour Atlanta Open Round 1,2027-01-10,Tyson McGuffin,11,4
+US Open Pickleball Championship Round 1,2027-01-28,Zane Navratil,11,7
+Margaritaville USA Pickleball National Championships Round 2,2027-02-15,Riley Newman,11,9
+APP Tour Las Vegas Open Quarterfinal,2027-03-05,Matt Wright,11,8
+PPA Tour New York Grand Slam Semifinal,2027-03-23,Jay Devilliers,11,6
+USA Pickleball Houston Grand Slam Final,2027-04-10,Patrick Smith,11,7
+APP Tour Denver Open Round 1,2027-04-28,Collin Johns,11,5
+PPA Tour California Open Round 2,2027-05-16,JW Johnson,11,8
+US Open Pickleball Championship Quarterfinal,2027-06-03,Tyler Loong,11,9
+Margaritaville USA Pickleball National Championships Semifinal,2027-06-21,AJ Koller,11,7
+APP Tour Seattle Cup Final,2027-07-09,Dekel Bar,11,8
+PPA Tour Utah Open Round 1,2027-07-27,Kyle Yates,11,4
+USA Pickleball Chicago Grand Slam Round 2,2027-08-14,Jocelyn Devilliers,11,6
+APP Tour Texas Open Quarterfinal,2027-09-01,Federico Staksrud,11,9
+PPA Tour Florida Grand Slam Semifinal,2027-09-19,Ben Johns,11,7
+US Open Pickleball Championship Final,2027-10-07,Tyson McGuffin,11,8
+Margaritaville USA Pickleball National Championships Round 1,2027-10-25,Zane Navratil,11,5
+APP Tour Arizona Cup Round 2,2027-11-12,Riley Newman,11,7
+PPA Tour California Open Quarterfinal,2027-11-30,Matt Wright,11,9
+USA Pickleball Las Vegas Grand Slam Semifinal,2027-12-18,Jay Devilliers,11,6
+APP Tour Florida Open Final,2028-01-05,Patrick Smith,11,8
+PPA Tour Texas Cup Round 1,2028-01-23,Collin Johns,11,4
+US Open Pickleball Championship Round 1,2028-02-10,JW Johnson,11,7
+Margaritaville USA Pickleball National Championships Round 2,2028-02-28,Tyler Loong,11,9
+APP Tour Atlanta Open Quarterfinal,2028-03-17,AJ Koller,11,8
+PPA Tour New York Grand Slam Semifinal,2028-04-04,Dekel Bar,11,6
+USA Pickleball Orlando Grand Slam Final,2028-04-22,Kyle Yates,11,7
+APP Tour Chicago Open Round 1,2028-05-10,Jocelyn Devilliers,11,5
+PPA Tour Minnesota Cup Round 2,2028-05-28,Federico Staksrud,11,8
+US Open Pickleball Championship Quarterfinal,2028-06-15,Ben Johns,11,9
+Margaritaville USA Pickleball National Championships Semifinal,2028-07-03,Tyson McGuffin,11,7
+APP Tour Seattle Open Final,2028-07-21,Zane Navratil,11,8
+PPA Tour Utah Grand Slam Round 1,2028-08-08,Riley Newman,11,4
+USA Pickleball San Diego Grand Slam Round 2,2028-08-26,Matt Wright,11,6
+APP Tour Boston Open Quarterfinal,2028-09-13,Jay Devilliers,11,9
+PPA Tour Florida Open Semifinal,2028-10-01,Patrick Smith,11,7
+US Open Pickleball Championship Final,2028-10-19,Collin Johns,11,8
+Margaritaville USA Pickleball National Championships Round 1,2028-11-06,JW Johnson,11,5
+APP Tour Las Vegas Cup Round 2,2028-11-24,Tyler Loong,11,7
+PPA Tour Arizona Grand Slam Quarterfinal,2028-12-12,AJ Koller,11,9
+USA Pickleball Miami Grand Slam Semifinal,2028-12-30,Dekel Bar,11,6
+APP Tour Texas Open Final,2029-01-17,Kyle Yates,11,8
+PPA Tour California Cup Round 1,2029-02-04,Jocelyn Devilliers,11,4
+US Open Pickleball Championship Round 1,2029-02-22,Federico Staksrud,11,7
+Margaritaville USA Pickleball National Championships Round 2,2029-03-12,Ben Johns,11,9
+APP Tour Phoenix Open Quarterfinal,2029-03-30,Tyson McGuffin,11,8
+PPA Tour New York Grand Slam Semifinal,2029-04-17,Zane Navratil,11,6
+USA Pickleball Dallas Grand Slam Final,2029-05-05,Riley Newman,11,7
+APP Tour Denver Open Round 1,2029-05-23,Matt Wright,11,5
+PPA Tour Seattle Cup Round 2,2029-06-10,Jay Devilliers,11,8
+US Open Pickleball Championship Quarterfinal,2029-06-28,Patrick Smith,11,9
+Margaritaville USA Pickleball National Championships Semifinal,2029-07-16,Collin Johns,11,7
+APP Tour Chicago Open Final,2029-08-03,JW Johnson,11,8
+PPA Tour Utah Open Round 1,2029-08-21,Tyler Loong,11,4
+USA Pickleball Los Angeles Grand Slam Round 2,2029-09-08,AJ Koller,11,6
+APP Tour Atlanta Open Quarterfinal,2029-09-26,Dekel Bar,11,9
+PPA Tour Florida Grand Slam Semifinal,2029-10-14,Kyle Yates,11,7
+US Open Pickleball Championship Final,2029-11-01,Jocelyn Devilliers,11,8
+Margaritaville USA Pickleball National Championships Round 1,2029-11-19,Federico Staksrud,11,5
+APP Tour Arizona Cup Round 2,2029-12-07,Ben Johns,11,7
+PPA Tour California Open Quarterfinal,2029-12-25,Tyson McGuffin,11,9
+USA Pickleball Houston Grand Slam Semifinal,2030-01-12,Zane Navratil,11,6
+APP Tour Florida Open Final,2030-01-30,Riley Newman,11,8
+PPA Tour Texas Cup Round 1,2030-02-17,Matt Wright,11,4
+US Open Pickleball Championship Round 1,2030-03-07,Jay Devilliers,11,7
+Margaritaville USA Pickleball National Championships Round 2,2030-03-25,Patrick Smith,11,9
+APP Tour Seattle Open Quarterfinal,2030-04-12,Collin Johns,11,8
+PPA Tour Minnesota Grand Slam Semifinal,2030-04-30,JW Johnson,11,6
+USA Pickleball New York Grand Slam Final,2030-05-18,Tyler Loong,11,7
+APP Tour Boston Open Round 1,2030-06-05,AJ Koller,11,5
+PPA Tour California Cup Round 2,2030-06-23,Dekel Bar,11,8
+US Open Pickleball Championship Quarterfinal,2030-07-11,Kyle Yates,11,9
+Margaritaville USA Pickleball National Championships Semifinal,2030-07-29,Jocelyn Devilliers,11,7
+APP Tour Chicago Open Final,2030-08-16,Federico Staksrud,11,8

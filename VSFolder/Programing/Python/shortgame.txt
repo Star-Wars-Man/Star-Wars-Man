@@ -1,0 +1,74 @@
+1. Chess:
+
+World Chess Championship 2023 Game 1,2023-01-15,Magnus Carlsen,1,0
+World Chess Championship 2023 Game 2,2023-02-03,Ding Liren,0.5,0.5
+Tata Steel Chess 2023 Round 1,2023-03-20,Magnus Carlsen,1,0
+Tata Steel Chess 2023 Round 2,2023-04-10,Ding Liren,0,1
+Norway Chess 2023 Game 1,2023-05-05,Magnus Carlsen,0.5,0.5
+Norway Chess 2023 Game 2,2023-06-18,Ding Liren,1,0
+Sinquefield Cup 2023 Round 1,2023-07-22,Magnus Carlsen,1,0
+Sinquefield Cup 2023 Round 2,2023-08-30,Ding Liren,0,1
+Chess.com Global Championship Quarterfinal,2023-09-14,Magnus Carlsen,0.5,0.5
+Chess.com Global Championship Semifinal,2023-10-02,Ding Liren,1,0
+FIDE Grand Swiss 2023 Round 1,2023-11-11,Magnus Carlsen,1,0
+FIDE Grand Swiss 2023 Round 2,2023-12-20,Ding Liren,0.5,0.5
+
+2. Football (NFL):
+
+NFL Kickoff Game: Chiefs vs Lions,2023-09-07,Kansas City Chiefs,27,24
+Patriots Home Opener,2023-09-17,New England Patriots,21,17
+Sunday Night Football: Chiefs vs Bears,2023-09-24,Kansas City Chiefs,31,28
+Patriots vs Cowboys,2023-10-01,New England Patriots,35,21
+Chiefs vs Chargers,2023-10-08,Kansas City Chiefs,24,20
+Monday Night Football: Patriots vs Dolphins,2023-10-15,New England Patriots,28,24
+Chiefs vs Broncos,2023-10-22,Kansas City Chiefs,17,14
+Patriots vs Jets,2023-10-29,New England Patriots,31,27
+Chiefs vs Raiders,2023-11-05,Kansas City Chiefs,23,20
+Patriots vs Colts,2023-11-12,New England Patriots,20,17
+Chiefs vs Eagles,2023-11-19,Kansas City Chiefs,28,24
+Patriots vs Giants,2023-11-26,New England Patriots,31,28
+
+3. League of Legends:
+
+LCK Spring 2023 Opening Match,2023-01-20,Faker,15,7
+LEC Winter 2023 Week 1,2023-02-05,Caps,12,9
+LCK Spring 2023 T1 vs DK,2023-02-18,Showmaker,18,11
+LCS Spring 2023 C9 vs T1,2023-03-04,Faker,10,13
+LEC Winter 2023 Finals,2023-03-19,Caps,14,8
+MSI 2023 Group Stage,2023-04-02,Showmaker,16,12
+MSI 2023 Knockout Stage,2023-04-16,Faker,13,10
+LEC Spring 2023 Opening,2023-04-30,Caps,11,15
+LCK Summer 2023 Week 1,2023-05-14,Showmaker,17,9
+LCS Summer 2023 Week 1,2023-05-28,Faker,9,14
+LEC Summer 2023 Week 1,2023-06-11,Caps,12,11
+Worlds 2023 Play-In Stage,2023-06-25,Showmaker,15,13
+
+4. Tennis (Grand Slam tournaments):
+
+Australian Open 2023 Men's Final,2023-01-29,Novak Djokovic,6,3
+Roland Garros 2023 Men's Quarterfinal,2023-06-11,Carlos Alcaraz,7,6
+Wimbledon 2023 Men's Semifinal,2023-07-16,Novak Djokovic,6,4
+US Open 2023 Men's Final,2023-09-10,Carlos Alcaraz,7,6
+Australian Open 2023 Women's Final,2023-01-28,Aryna Sabalenka,6,3
+Roland Garros 2023 Women's Final,2023-06-10,Iga ÅšwiÄ…tek,6,2
+Wimbledon 2023 Women's Final,2023-07-15,MarkÃ©ta VondrouÅ¡ovÃ¡,6,4
+US Open 2023 Women's Final,2023-09-09,Coco Gauff,6,2
+Australian Open 2023 Men's Semifinal,2023-01-27,Novak Djokovic,7,5
+Roland Garros 2023 Men's Final,2023-06-11,Novak Djokovic,6,3
+Wimbledon 2023 Men's Final,2023-07-16,Carlos Alcaraz,6,4
+US Open 2023 Men's Semifinal,2023-09-08,Novak Djokovic,6,3
+
+5. Rocket League:
+
+RLCS 2022-23 Fall Major Quarterfinals,2023-02-05,JustinBot,3,2
+RLCS 2022-23 Fall Major Semifinals,2023-02-19,Squishy,4,1
+RLCS 2022-23 Winter Major Group Stage,2023-03-05,GarrettG,2,3
+RLCS 2022-23 Winter Major Playoffs,2023-03-19,JustinBot,5,4
+RLCS 2022-23 Spring Split Regional 1,2023-04-02,Squishy,1,3
+RLCS 2022-23 Spring Split Regional 2,2023-04-16,GarrettG,3,2
+RLCS 2022-23 Spring Major Group Stage,2023-04-30,JustinBot,4,3
+RLCS 2022-23 Spring Major Playoffs,2023-05-14,Squishy,2,1
+RLCS 2022-23 World Championship Swiss Stage,2023-05-28,GarrettG,3,5
+RLCS 2022-23 World Championship Playoffs,2023-06-11,JustinBot,1,2
+RLCS 2023-24 Fall Split Regional 1,2023-06-25,Squishy,4,2
+RLCS 2023-24 Fall Split Regional 2,2023-07-09,GarrettG,3,3
